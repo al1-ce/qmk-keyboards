@@ -1,0 +1,47 @@
+How original...
+
+Colors as I've perceived it on 50% brightness
+0  - White
+1  - Red
+2  - Aquaish white
+3  - Light yellow
+4  - Green
+5  - Purple
+6  - Blue
+7  - Bluish white
+8  - Deep aqua
+9  - Yellowish green
+10 - Light blue
+11 - Yellow
+12 - Bluish white again
+13 - Lighter green
+14 - White again
+15 - Light yellow again
+
+Move layers for better visibility when switching layers
+2 -> 6
+3 -> 13
+
+What I've found from source code (which I couldn't compile and no damn manual how to do it)
+
+Hex codes are approx
+
+0  HSV_WHITE       #ffffff
+1  HSV_RED         #ee0000
+2  HSV_CYAN        #00ccff
+3  HSV_GOLDENROD   #efa520
+4  HSV_GREEN       #00ff00
+5  HSV_PURPLE      #ff00ff
+6  HSV_BLUE        #0000ff
+7  HSV_PINK        #ffc0cb
+8  HSV_SPRINGGREEN #00ff80
+9  HSV_YELLOW      #ffff00
+10 HSV_TEAL        #008080
+11 HSV_ORANGE      #ffa500
+12 HSV_AZURE       #007fff
+13 HSV_CHARTREUSE  #80ff00
+14 HSV_CORAL       #ff7f50
+15 HSV_GOLD        #ffd700
+
+Seriously, why half of colors so dull and indistinguishable from each other
+
