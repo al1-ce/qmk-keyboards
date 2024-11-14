@@ -35,7 +35,7 @@ It's just links and layout backup for myself.
 
 ### It' dum!
 
-![The keyboard itself!](images/imperial44.jpg)
+![The keyboard itself!](images/cstc40.jpg)
 
 ### Links
 
