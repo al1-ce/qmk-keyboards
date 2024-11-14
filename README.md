@@ -21,7 +21,7 @@ It's just links and layout backup for myself.
 
 ### Links
 
-- [Vial and flush](https://ergohaven.xyz/docs/imperial44)
+- [Vial and flash](https://ergohaven.xyz/docs/imperial44)
 - [Firmware binary](https://github.com/ergohaven/keymap_hub)
 - [Firmware source](https://github.com/ergohaven/vial-qmk/tree/vial/keyboards/ergohaven)
 - [Body STL for printing](https://github.com/ergohaven/imperial44)
