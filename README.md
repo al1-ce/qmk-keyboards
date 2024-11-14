@@ -5,6 +5,7 @@ A collection of stuff related to my qmk keyboards.
 ## TOC
 - [Imperial44](#imperial44)
 - [CSTC40](#cstc40)
+- [Keychron K8 Pro](#keychron-k8-pro)
 
 ## Imperial44
 
@@ -46,4 +47,15 @@ It's just links and layout backup for myself.
 - [Space Sim layout](vial/cstc40-space-sim.vil)
 - [Fasttracker 2 layout](vial/cstc40-fasttracker-2.vil)
 - [Firmware Mods](notes/cstc40-mods.txt)
+
+## Keychron K8 Pro
+
+### Solid choice!
+
+![The keyboard itself!](images/keychron-k8-pro.jpg)
+
+### Other
+
+- TODO: add current layout
+<!-- - [Current layout](vial/keychron-k8-pro.vil) -->
 
