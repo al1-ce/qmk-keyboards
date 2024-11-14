@@ -1,18 +1,24 @@
-# Imperial44
+# QMK Keyboards
 
-## Pretty!
+A collection of stuff related to my qmk keyboards.
 
-![The keyboard itself!](imperial44.jpg)
+## TOC
+- [Imperial44](#imperial44)
+- [CSTC40](#cstc40)
 
-## What?
+## Imperial44
 
-A collection of stuff related to this keyboard.
+### Pretty!
 
-But actually it's just links and layout backup for myself.
+![The keyboard itself!](images/imperial44.jpg)
+
+### What?
+
+It's just links and layout backup for myself.
 
 *Can't even use normal keyboards anymore because got used to this one too much.*
 
-## Links
+### Links
 
 - [Vial and flush](https://ergohaven.xyz/docs/imperial44)
 - [Firmware binary](https://github.com/ergohaven/keymap_hub)
@@ -20,9 +26,24 @@ But actually it's just links and layout backup for myself.
 - [Body STL for printing](https://github.com/ergohaven/imperial44)
 - [PCB design](https://oshwlab.com/yuriiq/imperial44v1)
 
-## Other
+### Other
 
-- [Current layout](imperial44-adjust.vil)
-- [Those damn colors](imperial44-colors.txt)
+- [Current layout](vial/imperial44-adjust.vil)
+- [Those damn colors](notes/imperial44-colors.txt)
 
+## CSTC40
+
+### It' dum!
+
+![The keyboard itself!](images/imperial44.jpg)
+
+### Links
+
+- [Improved firmware (util gets merged)](https://github.com/itsvar8/vial-qmk/tree/cstc40)
+
+### Other
+
+- [Space Sim layout](vial/cstc40-space-sim.vil)
+- [Fasttracker 2 layout](vial/cstc40-fasttracker-2.vil)
+- [Firmware Mods](notes/cstc40-mods.txt)
 

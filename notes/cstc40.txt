@@ -1,0 +1,40 @@
+Using itsvar8's vial-qmk fork on cstc40 branch.
+
+Build command:
+
+--------------------------------------------------
+make kprepublic/cstc40/single_pcb:vial
+--------------------------------------------------
+
+                         |
+To get better colors put V into single_pcb/single_pcb.c in rgb_matrix_indicators_advanced_user()
+
+--------------------------------------------------
+case 1:
+    rgb_matrix_set_color(i, RGB_RED);
+    break;
+case 2:
+    rgb_matrix_set_color(i, RGB_BLUE);
+    break;
+case 3:
+    rgb_matrix_set_color(i, RGB_GREEN);
+    break;
+case 4:
+    rgb_matrix_set_color(i, RGB_ORANGE);
+    break;
+case 5:
+    rgb_matrix_set_color(i, RGB_TEAL);
+    break;
+case 6:
+    rgb_matrix_set_color(i, RGB_MAGENTA);
+    break;
+case 7:
+    rgb_matrix_set_color(i, RGB_CYAN);
+    break;
+case 8:
+    rgb_matrix_set_color(i, RGB_TURQUOISE);
+    break;
+default:
+    break;
+--------------------------------------------------
+
