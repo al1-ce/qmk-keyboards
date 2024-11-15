@@ -13,11 +13,7 @@ A collection of stuff related to my qmk keyboards.
 
 ![The keyboard itself!](images/imperial44.jpg)
 
-### What?
-
-It's just links and layout backup for myself.
-
-*Can't even use normal keyboards anymore because got used to this one too much.*
+*Can't even use normal keyboards efficiently anymore because got used to this one too much.*
 
 ### Links
 
@@ -34,18 +30,20 @@ It's just links and layout backup for myself.
 
 ## CSTC40
 
-### It' dum!
+### It's dum!
 
 ![The keyboard itself!](images/cstc40.jpg)
 
+*A constant experiment adapting for my current needs without any regards for standards.*
+
 ### Links
 
-- [Improved firmware (util gets merged)](https://github.com/itsvar8/vial-qmk/tree/cstc40)
+- [Improved firmware (until it gets merged)](https://github.com/itsvar8/vial-qmk/tree/cstc40)
 
 ### Other
 
-- [Space Sim layout](vial/cstc40-space-sim.vil)
-- [Fasttracker 2 layout](vial/cstc40-fasttracker-2.vil)
+- [Vertical layout](vial/cstc40-space-sim.vil)
+- [FT 2 layout](vial/cstc40-fasttracker-2.vil)
 - [Firmware Mods](notes/cstc40-mods.txt)
 
 ## Keychron K8 Pro
@@ -54,8 +52,14 @@ It's just links and layout backup for myself.
 
 ![The keyboard itself!](images/keychron-k8-pro.jpg)
 
+*When everything else fails...*
+
+### Links
+
+- ???
+
 ### Other
 
-- TODO: add current layout
-<!-- - [Current layout](vial/keychron-k8-pro.vil) -->
+- TODO: add current layout (next line is a dud)
+- [Current layout](vial/keychron-k8-pro.vil)
 
