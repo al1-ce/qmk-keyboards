@@ -23,9 +23,14 @@ A collection of stuff related to my qmk keyboards.
 - [Body STL for printing](https://github.com/ergohaven/imperial44)
 - [PCB design](https://oshwlab.com/yuriiq/imperial44v1)
 
-### Other
+### Layouts
 
-- [Current layout](vial/imperial44-adjust.vil)
+- [Original'ish](vial/imperial44-original.vil)
+- [Adjusted](vial/imperial44.vil)
+- [Encoders (current)](vial/imperial44-encoders.vil)
+
+### Notes
+
 - [Those damn colors](notes/imperial44-colors.txt)
 
 ## CSTC40
@@ -40,10 +45,14 @@ A collection of stuff related to my qmk keyboards.
 
 - [Improved firmware (until it gets merged)](https://github.com/itsvar8/vial-qmk/tree/cstc40)
 
-### Other
+### Layouts
 
-- [Vertical layout](vial/cstc40-space-sim.vil)
-- [FT 2 layout](vial/cstc40-fasttracker-2.vil)
+- [Empty](vial/cstc40-empty.vil)
+- [Vertical](vial/cstc40-space-sim.vil)
+- [FT 2 (current)](vial/cstc40-fasttracker-2.vil)
+
+### Notes
+
 - [Firmware Mods](notes/cstc40-mods.txt)
 
 ## Keychron K8 Pro
@@ -56,10 +65,14 @@ A collection of stuff related to my qmk keyboards.
 
 ### Links
 
-- ???
+- none
 
-### Other
+### Layouts
 
 - TODO: add current layout (next line is a dud)
-- [Current layout](vial/keychron-k8-pro.vil)
+- [Normal (current)](vial/keychron-k8-pro.vil)
+
+### Notes
+
+- none
 
